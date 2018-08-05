@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-aspects-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-instrument-tomcat-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-jms-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-messaging-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-webmvc-portlet-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Vikas/downlode/springjars/spring-websocket-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
